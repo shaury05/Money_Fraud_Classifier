@@ -172,5 +172,5 @@ We evaluated models based on **ROC-AUC** and **F1-Score**, as Accuracy is mislea
 ---
 
 ### 📬 Contact
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Email:** [Your Email Here]
+* **LinkedIn:** [https://linkedin.com/in/shaury05]
+* **Email:** [ss5423@njit.edu]
