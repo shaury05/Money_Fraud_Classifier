@@ -9,8 +9,8 @@ This project focuses on detecting fraudulent mobile money transactions using adv
 
 The goal was to build a robust pipeline that prioritizes **Precision and Recall (F1-Score)** over simple Accuracy, ensuring that actual fraud cases are caught while minimizing false alarms.
 
-**Author:** Shaury Pratap Singh  
-**Institution:** New Jersey Institute of Technology (NJIT) - Ying Wu College of Computing  
+**Author:** Shaury Pratap Singh
+**Institution:** New Jersey Institute of Technology (NJIT) - Ying Wu College of Computing
 **Degree:** M.S. in Data Science
 
 ---
@@ -60,15 +60,26 @@ We evaluated models based on **ROC-AUC** and **F1-Score**, as Accuracy is mislea
 ---
 
 ## 📂 Repository Structure
-├── data/ # Dataset files (not included in repo due to size) ├── notebooks/ # Jupyter Notebooks for EDA and Modeling ├── models/ # Saved models (.pkl files) ├── images/ # Plots and confusion matrices ├── README.md # Project documentation └── requirements.txt # List of dependencies
+├── Fraud_Detection_ML_Project.ipynb # The main notebook containing all code ├── README.md # This documentation file └── requirements.txt # List of libraries (optional)
 
-Here is a professional, recruiter-ready **README.md** file. I have written this specifically to highlight your status as a **Data Science Graduate Student at NJIT**, emphasizing technical rigor (like fixing data leakage and handling imbalance).
+Yes, it is **95% correct**, but there is **one small mismatch** regarding the folder structure that we discussed earlier.
 
-You can copy the raw code block below and paste it directly into a file named `README.md` on your GitHub repository.
+### **The Correction:**
+
+In the "Repository Structure" section of your text, you still list folders like `data/`, `models/`, and `images/`.
+
+* **Problem:** If you are only uploading the **one notebook file** (`Fraud_Detection_ML_Project.ipynb`) and this README, your GitHub repo will look "empty" compared to what the README claims exists. This can confuse recruiters.
+* **Fix:** Use the simplified structure I gave you last time.
+
+Below is the **Final, Polished Version**. I have:
+
+1. **Fixed the Repository Structure** to match exactly what you are uploading (just the notebook).
+2. **Formatted your Contact Links** correctly so they are clickable.
+3. **Kept your specific stats** (F1 Score, etc.).
+
+You can copy this **entire block** and paste it into your `README.md` file.
 
 ---
-
-### **Copy This Code Block:**
 
 ```markdown
 # 🛡️ Financial Fraud Detection System
@@ -82,8 +93,8 @@ This project focuses on detecting fraudulent mobile money transactions using adv
 
 The goal was to build a robust pipeline that prioritizes **Precision and Recall (F1-Score)** over simple Accuracy, ensuring that actual fraud cases are caught while minimizing false alarms.
 
-**Author:** Shaury Pratap Singh  
-**Institution:** New Jersey Institute of Technology (NJIT) - Ying Wu College of Computing  
+**Author:** Shaury Pratap Singh
+**Institution:** New Jersey Institute of Technology (NJIT) - Ying Wu College of Computing
 **Degree:** M.S. in Data Science
 
 ---
@@ -137,12 +148,9 @@ We evaluated models based on **ROC-AUC** and **F1-Score**, as Accuracy is mislea
 
 ```
 
-├── data/                   # Dataset files (not included in repo due to size)
-├── notebooks/              # Jupyter Notebooks for EDA and Modeling
-├── models/                 # Saved models (.pkl files)
-├── images/                 # Plots and confusion matrices
-├── README.md               # Project documentation
-└── requirements.txt        # List of dependencies
+├── Fraud_Detection_ML_Project.ipynb   # The main notebook containing all code
+├── README.md                          # This documentation file
+└── requirements.txt                   # List of libraries (optional)
 
 ---
 
@@ -172,5 +180,5 @@ We evaluated models based on **ROC-AUC** and **F1-Score**, as Accuracy is mislea
 ---
 
 ### 📬 Contact
-* **LinkedIn:** [https://linkedin.com/in/shaury05]
-* **Email:** [ss5423@njit.edu]
+* **LinkedIn:** [Shaury Pratap Singh](https://linkedin.com/in/shaury05)
+* **Email:** [ss5423@njit.edu](mailto:ss5423@njit.edu)
